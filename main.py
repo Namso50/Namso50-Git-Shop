@@ -1,1 +1,0 @@
-print(“Hello Namso50 :D”)
